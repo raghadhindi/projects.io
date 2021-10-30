@@ -1,0 +1,46 @@
+.size th,
+td {
+  border: 1px solid black;
+  border-color: black;
+  background-color: #e7dde2;
+  border-radius: 10px;
+
+  text-align: center;
+}
+.title {
+  text-align: center;
+  color: rgb(12, 12, 12);
+  padding-top: 50px;
+}
+.size {
+    margin-left: 500px;
+}
+
+body {
+  background-color: cornsilk;
+}
+
+.aboutjaket {
+ 
+  text-align: center;
+ 
+}
+.jakettitle {
+  text-align: center;
+  font-size: larger;
+ 
+}
+.jaket {
+  
+
+  background-color: rgb(149, 229, 209);
+  display: inline-block;
+}
+.div1 {
+  text-align: center;
+}
+
+.table{
+    text-align: center;
+
+}

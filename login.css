@@ -1,0 +1,38 @@
+body{
+   background-color: powderblue;
+  
+}
+.logindiv{
+
+    background-color: plum;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    width: 30%;
+    height: 40%;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 20%;
+    
+}
+.logintitle{
+    text-align: center;
+    letter-spacing: 5px;
+    margin-top: 100px;
+    font-size: xx-large;
+    
+}
+.logindiv input {
+    border-style: none;
+    background-color: plum;
+    border-bottom-color: black;
+    border-bottom: solid 2px;
+    color: rgb(29, 28, 27);
+  
+}
+.forget{
+    float: right;
+
+    margin-right: 30px;
+}

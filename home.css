@@ -1,0 +1,187 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.sitTitle {
+  float: left;
+  font-size: x-large;
+  margin-left: 30px;
+  margin-top: 10px;
+  text-decoration: none;
+  color: rgb(153, 152, 152);
+}
+.login:hover{
+  background-color: rgb(53, 53, 53);
+  color: gray;
+  border-radius: 3px;
+}
+
+.sec1 {
+}
+.art1 {
+  width: 400px;
+  height: 400px;
+  background-color: beige;
+  text-align: center;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.p1 {
+  width: 400px;
+}
+.art2 {
+  width: 200px;
+  background-color: white;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 20px;
+  max-height: 200px;
+}
+.menubar {
+  float: right;
+  font-size: x-large;
+  margin-right: 20px;
+  margin-top: 10px;
+  color: rgb(83, 82, 82);
+}
+.titlenav {
+  background-color: rgb(224, 230, 230);
+  height: 40px;
+  padding-bottom: 10px;
+}
+.sect2 {
+  background-color: rgb(29, 29, 153);
+  height: 600px;
+  padding-top: 50px;
+}
+.aboutfashion {
+  color: antiquewhite;
+}
+.fashionimg {
+}
+.aboutdiv {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+.imgfashion {
+  width: 600px;
+
+  margin-left: 50px;
+  /*
+  float: left;
+  margin-top: 30px;
+  margin-left: 100px;
+  */
+}
+.parFashion {
+  background-color: rgb(199, 26, 127);
+  padding-top: 30px;
+  width: 600px;
+  font-size: larger;
+
+  margin-right: 90px;
+  /* width: 500px;
+  height: 500px;
+  float: right;
+  margin-right: 210px;
+  margin-top: 30px;
+  background-color: rgb(199, 26, 127);
+  padding-left: 20px;
+  */
+}
+.parFashion h1 {
+  text-align: center;
+}
+.learnbutton {
+  background-color: rgb(29, 29, 153);
+  width: 200px;
+  height: 60px;
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+  border-radius: 10px;
+  display: inline-block;
+  border-color: black;
+}
+.learnbutton:hover {
+  padding-right: 25px;
+  background-color: darkgray;
+  color: blue;
+}
+
+.designer-info {
+  display: flex;
+  justify-content: space-between;
+}
+.coco {
+  width: 30%;
+  height: 30%;
+  background-color: antiquewhite;
+  margin-left: 15px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.donna {
+  width: 30%;
+  height: 30%;
+  background-color: antiquewhite;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.giorgio {
+  width: 30%;
+  height: 30%;
+  background-color: antiquewhite;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.designer-title {
+  color: rgb(199, 26, 127);
+  text-align: center;
+  font-size: x-large;
+}
+.sect3 {
+  background-color: rgb(134, 88, 28);
+}
+.login {
+  float: right;
+  font-size: x-large;
+  margin-right: 20px;
+  margin-top: 10px;
+  color: rgb(83, 82, 82);
+  text-decoration: none;
+}
+.clothstyp {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 30px;
+  text-decoration: none;
+  height: 350px;
+}
+
+.clothstyp2 {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 30px;
+  margin-top: -200px;
+  text-decoration: none;
+}
+.clothstyp a {
+  text-decoration: none;
+  color: black;
+}
+.clothstyp2 a {
+  text-decoration: none;
+}
+.typetitle {
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+.sec4 {
+  background-color: rgb(199, 26, 127);
+  text-align: center;
+}
